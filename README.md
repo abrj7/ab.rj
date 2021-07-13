@@ -1,4 +1,13 @@
-### Hi there 👋
+<div align="center">
+    <h1><em>OldWizard209</em></h1>
+  <p>a <em>middle-schooler</em>,</p>
+  <p>an <em>aspiring coder</em>,</p>
+  <p>but most importatnly, a <strong><em>wizard</em></strong>.</p>
+</div>
+
+
+
+
 
 <!--
 **OldWizard209/OldWizard209** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
