@@ -16,8 +16,11 @@ A few things you may be interested in:
 - ⚡ Fun fact: Oceans actually produce more oxygen than trees. Not against trees or anything, but I am blown man.
 <hr>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OldWizard209)](https://github.com/anuraghazra/github-readme-stats)
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=OldWizard209&show_icons=true&theme=radical)
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OldWizard209)](https://github.com/anuraghazra/github-readme-stats)
 
 ## My tutorials:
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=OldWizard209&repo=JS-Crash-Course)](https://github.com/anuraghazra/github-readme-stats)
