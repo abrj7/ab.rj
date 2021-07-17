@@ -29,7 +29,7 @@ A few things you may be interested in:
 ## My Projects:
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=OldWizard209&repo=ToDoList)](https://github.com/anuraghazra/github-readme-stats)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=OldWizard209&repo=Weather-Forecast)](https://github.com/anuraghazra/github-readme-stats)
-
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=OldWizard209&repo=Simon-Game)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
