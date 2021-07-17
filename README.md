@@ -25,7 +25,10 @@ A few things you may be interested in:
 ## My tutorials:
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=OldWizard209&repo=JS-Crash-Course)](https://github.com/anuraghazra/github-readme-stats)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=OldWizard209&repo=Machine-Learning-CrashCourse)](https://github.com/anuraghazra/github-readme-stats)
+
+## My Projects:
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=OldWizard209&repo=ToDoList)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=OldWizard209&repo=Weather-Forecast)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
