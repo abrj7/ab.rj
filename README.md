@@ -24,16 +24,17 @@ A few things you may be interested in:
 #### Languages:
 <a href="https://www.python.org"><img src="https://img.shields.io/badge/-Python 3-313131?style=for-the-badge&labelColor=313131&logo=python&logoColor=blue&color=313131"></img></a>
 <a href="https://www.javascript.com"><img src="https://img.shields.io/badge/-Javascript-313131?style=for-the-badge&labelColor=313131&logo=javascript&logoColor=yellow&color=313131"></img></a>
-<a href="https://www.javascript.com"><img src="https://img.shields.io/badge/-C++-313131?style=for-the-badge&labelColor=313131&logo=#00599C&logoColor=yellow&color=313131"></img></a>
+<a href="https://www.javascript.com"><img src="https://img.shields.io/badge/-C++-313131?style=for-the-badge&labelColor=313131&logo=c++&logoColor=yellow&color=313131"></img></a>
+
 
 #### Web-Dev:
 <a href="https://www.w3schools.com/html/html_intro.asp"><img src="https://img.shields.io/badge/-HTML5-313131?style=for-the-badge&labelColor=313131&logo=html5&logoColor=orange&color=313131"></img></a>
 <a href="https://www.w3schools.com/css/css_intro.asp"><img src="https://img.shields.io/badge/-CSS3-313131?style=for-the-badge&labelColor=313131&logo=css3&logoColor=blue&color=313131"></img></a>
 <a href="http://expressjs.com"><img src="https://img.shields.io/badge/-ExpressJS-313131?style=for-the-badge&labelColor=313131&logo=express&logoColor=blue&color=313131"></img></a>
-<a href=""><img src="https://img.shields.io/badge/-Heroku-313131?style=for-the-badge&labelColor=313131&logo=heroku&logoColor=purple&color=313131"></img></a>
-<a href=""><img src="https://img.shields.io/badge/-JQuery-313131?style=for-the-badge&labelColor=313131&logo=jquery&logoColor=green&color=313131"></img></a>
-<a href=""><img src="https://img.shields.io/badge/-Django-313131?style=for-the-badge&labelColor=313131&logo=django&logoColor=white&color=313131"></img></a>
-<a href=""><img src="https://img.shields.io/badge/-ReactJS-313131?style=for-the-badge&labelColor=313131&logo=react&logoColor=red&color=313131"></img></a>
+<a href="https://www.heroku.com/"><img src="https://img.shields.io/badge/-Heroku-313131?style=for-the-badge&labelColor=313131&logo=heroku&logoColor=purple&color=313131"></img></a>
+<a href="https://jquery.com/"><img src="https://img.shields.io/badge/-JQuery-313131?style=for-the-badge&labelColor=313131&logo=jquery&logoColor=green&color=313131"></img></a>
+<a href="https://www.djangoproject.com/"><img src="https://img.shields.io/badge/-Django-313131?style=for-the-badge&labelColor=313131&logo=django&logoColor=white&color=313131"></img></a>
+<a href="https://reactjs.org/"><img src="https://img.shields.io/badge/-ReactJS-313131?style=for-the-badge&labelColor=313131&logo=react&logoColor=red&color=313131"></img></a>
 <a href=""><img src="https://img.shields.io/badge/-Selenium-313131?style=for-the-badge&labelColor=313131&logo=selenium&logoColor=green&color=313131"></img></a>
 
 
@@ -82,5 +83,9 @@ A few things you may be interested in:
 
 ## 📫 How to reach me:
 <a href="https://discord.com/users/764730024984313867/"><img src="https://img.shields.io/badge/-Discord-313131?style=for-the-badge&labelColor=313131&logo=discord&logoColor=blue&color=313131"></img></a>
+<a href="mailto:oldwizard209@gmail.com/"><img src="https://img.shields.io/badge/-Gmail-313131?style=for-the-badge&labelColor=313131&logo=gmail&logoColor=red&color=313131"></img></a>
+<a href="https://replit.com/@OldWizard209"><img src="https://img.shields.io/badge/-ReplIt-313131?style=for-the-badge&labelColor=313131&logo=replit&logoColor=gray&color=313131"></img></a>
+<a href="https://github.com/OldWizard209/"><img src="https://img.shields.io/badge/-GitHub-313131?style=for-the-badge&labelColor=313131&logo=github&logoColor=&color=313131"></img></a>
+
 
 
