@@ -3,8 +3,9 @@
   <p>a <em>middle-schooler</em>,</p>
   <p>an <em>aspiring coder</em>,</p>
   <p>but most importatnly, a <strong><em>wizard</em></strong>.</p>
-    <hr>
+      <hr>
 </div>
+![xc](https://komarev.com/ghpvc/?username=OldWizard209)
 
 A few things you may be interested in:
 - 🔭 I’m currently working on full stack web app with [Express](https://expressjs.com/), [Node](https://nodejs.org/en/), [MongoDB](https://www.mongodb.com/), and [EJS](https://ejs.co/).
