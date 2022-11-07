@@ -11,7 +11,6 @@
 
 
 A few things you may be interested in:
-- 🔭 I’m currently working on full stack web app with [Express](https://expressjs.com/), [Node](https://nodejs.org/en/), [MongoDB](https://www.mongodb.com/), and [EJS](https://ejs.co/).
 - 🌱 I’m currently learning Machine Learning with Tensorflow and ScikitLearn
 - 🤔 I’m looking for help with pretty much nothing yet.
 - 💬 Ask me about problem solving, and code shortening with Python
