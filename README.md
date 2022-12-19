@@ -1,9 +1,7 @@
 <div align="center">
-    <h1><em>OldWizard209</em></h1>
+    <h1><em>ab.rj</em></h1>
   <p>a <em>high-schooler</em>,</p>
   <p>an <em>aspiring coder</em>,</p>
-  <p>but most importatnly, a <strong><em></em></strong>.</p>
-      <hr>
 </div>
 
 
