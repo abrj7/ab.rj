@@ -64,20 +64,19 @@ A few things you may be interested in:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abrj7&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-## My tutorials:
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=abrj7&repo=JS-Crash-Course&theme=tokyonight&border_radius=0)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=abrj7&repo=Machine-Learning-CrashCourse&theme=tokyonight&border_radius=0)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=abrj7&repo=Git-GitHub-and-Version-Control-Tutorial&theme=tokyonight&border_radius=0)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ## My Projects:
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=abrj7&repo=Mask-Detection-AI-using-CNNs-and-Object-Detection&theme=tokyonight&border_radius=0)](https://github.com/anuraghazra/github-readme-stats)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=abrj7&repo=ToDoList&theme=tokyonight&border_radius=0)](https://github.com/anuraghazra/github-readme-stats)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=abrj7&repo=Weather-Forecast&theme=tokyonight&border_radius=0)](https://github.com/anuraghazra/github-readme-stats)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=abrj7&repo=Clock&theme=tokyonight&border_radius=0)](https://github.com/anuraghazra/github-readme-stats)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=abrj7&repo=Simon-Game&theme=tokyonight&border_radius=0)](https://github.com/anuraghazra/github-readme-stats)
 
-
-
+## My tutorials:
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=abrj7&repo=JS-Crash-Course&theme=tokyonight&border_radius=0)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=abrj7&repo=Machine-Learning-CrashCourse&theme=tokyonight&border_radius=0)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=abrj7&repo=Git-GitHub-and-Version-Control-Tutorial&theme=tokyonight&border_radius=0)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ## 📫 How to reach me:
