@@ -59,22 +59,22 @@ A few things you may be interested in:
 
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=OldWizard209&show_icons=true&theme=tokyonight)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=abrj7&show_icons=true&theme=tokyonight)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OldWizard209&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abrj7&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 ## My tutorials:
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=OldWizard209&repo=JS-Crash-Course&theme=tokyonight&border_radius=0)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=OldWizard209&repo=Machine-Learning-CrashCourse&theme=tokyonight&border_radius=0)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=OldWizard209&repo=Git-GitHub-and-Version-Control-Tutorial&theme=tokyonight&border_radius=0)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=abrj7&repo=JS-Crash-Course&theme=tokyonight&border_radius=0)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=abrj7&repo=Machine-Learning-CrashCourse&theme=tokyonight&border_radius=0)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=abrj7&repo=Git-GitHub-and-Version-Control-Tutorial&theme=tokyonight&border_radius=0)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ## My Projects:
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=OldWizard209&repo=ToDoList&theme=tokyonight&border_radius=0)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=OldWizard209&repo=Weather-Forecast&theme=tokyonight&border_radius=0)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=OldWizard209&repo=Clock&theme=tokyonight&border_radius=0)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=OldWizard209&repo=Simon-Game&theme=tokyonight&border_radius=0)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=abrj7&repo=ToDoList&theme=tokyonight&border_radius=0)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=abrj7&repo=Weather-Forecast&theme=tokyonight&border_radius=0)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=abrj7&repo=Clock&theme=tokyonight&border_radius=0)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=abrj7&repo=Simon-Game&theme=tokyonight&border_radius=0)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
