@@ -8,14 +8,6 @@
 ![](https://komarev.com/ghpvc/?username=OldWizard209&color=blue)
 
 
-A few things you may be interested in:
-- 🌱 I’m currently learning Machine Learning with Tensorflow and ScikitLearn
-- 🤔 I’m looking for help with pretty much nothing yet.
-- 💬 Ask me about problem solving, and code shortening with Python
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: Oceans actually produce more oxygen than trees. Not against trees or anything, but I am blown man.
-<hr>
-
 ### Things I know:
 
 #### Languages:
